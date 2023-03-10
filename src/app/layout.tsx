@@ -1,4 +1,4 @@
-import './globals.css'
+import "./globals.css"
 import ChangeColorButton  from './ChangeColorButton/page'
 import Providers from './Providers'
 
